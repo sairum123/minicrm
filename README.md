@@ -1,7 +1,7 @@
 # minicrm
 #### A test Project given by pnc ####
 
-I have completed all of these task successfully
+I have completed all of these tasks successfully
  
 * Basic Laravel Auth: ability to log in as administrator<br />
 * Use database seeds to create first user with email admin@admin.com and password “password”<br />
