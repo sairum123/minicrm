@@ -16,3 +16,13 @@ All the tasks i completed successfully
 * Use Laravel make:auth as default Bootstrap-based design theme, but remove ability to register company-crud<br />
 * Email notification: send email whenever new company is entered (use Mailgun or Mailtrap)<br />
 * Make the project multi-language (using resources/lang folder)<br />
+
+# How to use
+
+* Clone the repository with git clone<br />
+* Copy .env.example file to .env and edit database/Stripe credentials there<br />
+* Run composer install<br />
+* Run php artisan key:generate<br />
+* create database.sqlite in database directory<br />
+* Run php artisan migrate --seed (it has some seeded data for your testing)<br />
+* That's it: launch the main URL and login with default credentials admin@mail.com - password<br />
