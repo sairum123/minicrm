@@ -25,4 +25,3 @@ All the tasks i completed successfully
 * Run php artisan key:generate<br />
 * create database.sqlite in database directory<br />
 * Run php artisan migrate --seed (this seed create new user email:admin@admin.com , pass:password)<br />
-* <br />
