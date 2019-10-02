@@ -20,7 +20,7 @@ I have completed all of these tasks successfully
 # How to use
 
 * Clone the repository with git clone<br />
-* Copy .env.example file to .env and edit database/Stripe credentials there<br />
+* Copy .env.example file to .env and edit mailtrap username and pass<br />
 * Run composer install<br />
 * Run php artisan key:generate<br />
 * create database.sqlite in database directory<br />
